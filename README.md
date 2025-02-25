@@ -15,7 +15,7 @@
 <div style="display: inline_block"><br>
   <p align="center">
     <a>
-      <img src="https://skillicons.dev/icons?i=php,react,html,css,htmx,js,phpstorm,vscode,jenkins,jquery,laravel,symfony,git,gitlab,docker,vim,bootstrap,django,mongodb,postgres,mysql,nodejs,npm,vite,postman" />
+      <img src="https://skillicons.dev/icons?i=php,react,html,css,js,jquery,htmx,laravel,symfony,phpstorm,vscode,git,gitlab,docker,vim,bootstrap,py,django,pycharm,mongodb,postgres,mysql,nodejs,npm,vite,postman,jenkins" />
     </a>
   </p>
   
